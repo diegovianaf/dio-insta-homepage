@@ -14,6 +14,10 @@ https://diegovianaf.github.io/insta-loginpage/
 
 [MIT](https://github.com/diegovianaf/insta-loginpage/blob/main/license)
 
+## Instructor
+
+[Gabriela Pinheiro](https://github.com/SpruceGabriela)
+
 ## Author
 
 [Diego Viana](https://www.linkedin.com/in/diegovianaf/)
